@@ -1,4 +1,4 @@
-# Credit_risk_predictions
+# Credit Risk Predictions
 The notebooks in this repository model credit risks for loans using machine learning. The loan data is imbalanced so the models have to be evaluated with imbalanced classes. The first notebook uses resampling models and the second uses ensemble learning.
 
 ---
